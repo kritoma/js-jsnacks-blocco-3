@@ -1,5 +1,5 @@
-const red = document.querySelector(".red");
-const green = document.querySelector(".green");
+const red = document.getElementById("red");
+const green = document.getElementById("green");
 
 const numbers = [];
 
