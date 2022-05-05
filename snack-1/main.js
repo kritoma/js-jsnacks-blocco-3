@@ -4,7 +4,7 @@ let total = 0
 let i = 0
 
  do {
-    numbers.push(Number(prompt("inserisci il numero")));
+    numbers.push(Number(prompt("inserisci un numero")));
     total += numbers[i]
     i++
 } while ( total < 50 )
